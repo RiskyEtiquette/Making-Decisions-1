@@ -88,6 +88,10 @@ console.log("T-Shirt and umbrella")
 
 //CODE HERE
 
+for (let hello = 1; hello < 11; hello++){
+  console.log("hello")
+}
+
 ////////// PROBLEM 6 //////////
 
 /*
