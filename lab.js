@@ -112,6 +112,9 @@ for (let i = 1; i < 11; i++){
 
 //CODE HERE
 
+for (let p = 10; p > 0; p--){
+  console.log(p)
+}
 
 ////////// PROBLEM 8 //////////
 
