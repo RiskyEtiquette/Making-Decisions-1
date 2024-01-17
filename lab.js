@@ -7,14 +7,13 @@
 */
 
 //CODE HERE
-let lovescode = false;
+let lovescode = true;
 
 if (lovescode === true){
   console.log("I Love to Code!")
 } else {
   console.log("Coding has its challenges")
 }
-
 
 
 // For problems 2-3 use the following lines of code:
@@ -30,6 +29,15 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+
+if (amysAge > brittanisAge){ 
+  console.log("Amy is older")
+} else if (brittanisAge > amysAge){
+  console.log("Brittani is Older")
+} else { 
+  console.log("They are both the same age.")
+}
+
 
 ////////// PROBLEM 3 //////////
 
