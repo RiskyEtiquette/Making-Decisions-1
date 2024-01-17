@@ -100,6 +100,10 @@ for (let hello = 1; hello < 11; hello++){
 
 //CODE HERE
 
+for (let i = 1; i < 11; i++){
+  console.log(i)
+}
+
 ////////// PROBLEM 7 //////////
 
 /*
